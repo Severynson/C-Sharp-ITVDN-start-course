@@ -1,0 +1,30 @@
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\bin\Debug\net6.0\First project.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\bin\Debug\net6.0\First project.deps.json
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\bin\Debug\net6.0\First project.runtimeconfig.json
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\bin\Debug\net6.0\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\bin\Debug\net6.0\First project.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.AssemblyInfo.cs
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\refint\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\First project.genruntimeconfig.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\First app\obj\Debug\net6.0\ref\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\bin\Debug\net6.0\First project.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\bin\Debug\net6.0\First project.deps.json
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\bin\Debug\net6.0\First project.runtimeconfig.json
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\bin\Debug\net6.0\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\bin\Debug\net6.0\First project.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.AssemblyInfo.cs
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\refint\First project.dll
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\First project.genruntimeconfig.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\First app\obj\Debug\net6.0\ref\First project.dll

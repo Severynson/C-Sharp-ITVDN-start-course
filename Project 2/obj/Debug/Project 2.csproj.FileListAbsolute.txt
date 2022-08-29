@@ -1,0 +1,16 @@
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\bin\Debug\Project 2.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\bin\Debug\Project 2.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\obj\Debug\Project 2.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\First app\Project 2\obj\Debug\Project 2.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\bin\Debug\Project 2.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\bin\Debug\Project 2.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\obj\Debug\Project 2.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN basic course\Project 2\obj\Debug\Project 2.pdb
