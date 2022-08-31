@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C# ITVDN basic course\\First app\\First project.csproj": {}
+    "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C Sharp ITVDN start course\\First app\\First project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C# ITVDN basic course\\First app\\First project.csproj": {
+    "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C Sharp ITVDN start course\\First app\\First project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C# ITVDN basic course\\First app\\First project.csproj",
+        "projectUniqueName": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C Sharp ITVDN start course\\First app\\First project.csproj",
         "projectName": "First project",
-        "projectPath": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C# ITVDN basic course\\First app\\First project.csproj",
+        "projectPath": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C Sharp ITVDN start course\\First app\\First project.csproj",
         "packagesPath": "C:\\Users\\sever\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C# ITVDN basic course\\First app\\obj\\",
+        "outputPath": "C:\\Users\\sever\\Desktop\\Programing files\\C#\\ITVDN\\C Sharp ITVDN start course\\First app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sever\\AppData\\Roaming\\NuGet\\NuGet.Config",

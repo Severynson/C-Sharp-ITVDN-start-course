@@ -1,0 +1,8 @@
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\bin\Release\Project for lecture 6 ITVDN.exe.config
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\bin\Release\Project for lecture 6 ITVDN.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\bin\Release\Project for lecture 6 ITVDN.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\obj\Release\Project for lecture 6 ITVDN.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\obj\Release\Project for lecture 6 ITVDN.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\obj\Release\Project for lecture 6 ITVDN.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\obj\Release\Project for lecture 6 ITVDN.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C# ITVDN start course\Project for lecture 6 ITVDN\obj\Release\Project for lecture 6 ITVDN.pdb
