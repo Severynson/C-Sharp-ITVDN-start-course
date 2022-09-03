@@ -1,0 +1,8 @@
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\bin\Debug\Project for lecture 22.exe.config
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\bin\Debug\Project for lecture 22.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\bin\Debug\Project for lecture 22.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\obj\Debug\Project for lecture 22.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\obj\Debug\Project for lecture 22.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\obj\Debug\Project for lecture 22.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\obj\Debug\Project for lecture 22.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Project for lecture 22\obj\Debug\Project for lecture 22.pdb
