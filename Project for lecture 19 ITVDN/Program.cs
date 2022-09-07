@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Project_for_lecture_19_ITVDN
+﻿namespace Project_for_lecture_19_ITVDN
 {
     internal class Program
     {
@@ -28,10 +22,10 @@ namespace Project_for_lecture_19_ITVDN
             // Strong tipisation but type defined automatically;
 
             // var != dynamic;
-            var variable = "Hello world!";
-            variable = 123;
+            //   var variable = "Hello world!";
+            //  variable = 123;
 
-            Console.WriteLine(variable);
+            //    Console.WriteLine(variable);
 
         }
     }

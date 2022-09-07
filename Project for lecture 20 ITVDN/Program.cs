@@ -42,6 +42,8 @@ namespace Project_for_lecture_20_ITVDN
             {
                 int localLocalVariable = 5;
                 Console.WriteLine(field);
+                Console.WriteLine(localVariable);
+                Console.WriteLine(localLocalVariable);
             }
 
         }

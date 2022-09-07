@@ -31,7 +31,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 20 ITVD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 21 ITVDN", "Project for lecture 21 ITVDN\Project for lecture 21 ITVDN.csproj", "{8933D9E1-6B52-4E42-9698-F94167174CE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 22", "Project for lecture 22\Project for lecture 22.csproj", "{F1150CC7-9C46-4111-B2F1-1C6BAD8C2CA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 22 ITVDN", "Project for lecture 22\Project for lecture 22 ITVDN.csproj", "{F1150CC7-9C46-4111-B2F1-1C6BAD8C2CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 23 ITVDN", "Project for lecture 23 ITVDN\Project for lecture 23 ITVDN.csproj", "{6CBDD110-E676-49B7-8759-6824DA52A0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 24 and 25 ITVDN", "Project for lecture 24 ITVDN\Project for lecture 24 and 25 ITVDN.csproj", "{2014DB87-A865-44CB-BA6B-8E655EEA743F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 26 ITVDN", "Project for lecture 26 ITVDN\Project for lecture 26 ITVDN.csproj", "{9E3AE948-078E-425D-8ED8-32C6B9C439E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 27 ITVDN", "Project for lecture 27 ITVDN\Project for lecture 27 ITVDN.csproj", "{C00868EE-2F69-4A50-AB69-E3AE475BC98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project for lecture 29 ITVDN", "Project for lecture 29 ITVDN\Project for lecture 29 ITVDN.csproj", "{0CE818BD-3643-4702-9A2A-74FBCFE839A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{F1150CC7-9C46-4111-B2F1-1C6BAD8C2CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1150CC7-9C46-4111-B2F1-1C6BAD8C2CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1150CC7-9C46-4111-B2F1-1C6BAD8C2CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBDD110-E676-49B7-8759-6824DA52A0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBDD110-E676-49B7-8759-6824DA52A0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBDD110-E676-49B7-8759-6824DA52A0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBDD110-E676-49B7-8759-6824DA52A0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2014DB87-A865-44CB-BA6B-8E655EEA743F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2014DB87-A865-44CB-BA6B-8E655EEA743F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2014DB87-A865-44CB-BA6B-8E655EEA743F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2014DB87-A865-44CB-BA6B-8E655EEA743F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3AE948-078E-425D-8ED8-32C6B9C439E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3AE948-078E-425D-8ED8-32C6B9C439E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3AE948-078E-425D-8ED8-32C6B9C439E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3AE948-078E-425D-8ED8-32C6B9C439E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00868EE-2F69-4A50-AB69-E3AE475BC98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00868EE-2F69-4A50-AB69-E3AE475BC98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00868EE-2F69-4A50-AB69-E3AE475BC98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00868EE-2F69-4A50-AB69-E3AE475BC98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE818BD-3643-4702-9A2A-74FBCFE839A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE818BD-3643-4702-9A2A-74FBCFE839A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE818BD-3643-4702-9A2A-74FBCFE839A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE818BD-3643-4702-9A2A-74FBCFE839A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
