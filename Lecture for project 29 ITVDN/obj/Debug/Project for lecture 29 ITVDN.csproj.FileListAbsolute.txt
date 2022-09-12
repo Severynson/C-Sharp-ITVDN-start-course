@@ -1,0 +1,8 @@
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\bin\Debug\Lecture for project 29 ITVDN.exe.config
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\bin\Debug\Lecture for project 29 ITVDN.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\bin\Debug\Lecture for project 29 ITVDN.pdb
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\obj\Debug\Project for lecture 29 ITVDN.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\obj\Debug\Project for lecture 29 ITVDN.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\obj\Debug\Project for lecture 29 ITVDN.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\obj\Debug\Lecture for project 29 ITVDN.exe
+C:\Users\sever\Desktop\Programing files\C#\ITVDN\C Sharp ITVDN start course\Lecture for project 29 ITVDN\obj\Debug\Lecture for project 29 ITVDN.pdb
